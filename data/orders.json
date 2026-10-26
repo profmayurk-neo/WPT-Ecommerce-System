@@ -1,0 +1,17 @@
+[
+  {
+    "id": "O1001",
+    "customerName": "Aarav Patil",
+    "items": [
+      {
+        "productId": "P1001",
+        "productName": "Wireless Mouse",
+        "quantity": 2,
+        "unitPrice": 799
+      }
+    ],
+    "total": 1598,
+    "status": "PLACED",
+    "createdAt": "2026-10-26"
+  }
+]
